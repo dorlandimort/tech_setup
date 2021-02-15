@@ -1,17 +1,17 @@
 # 1. Tech Setup
 
-This is how I set my computer to code
+This is how I set up my computer to code
 
 ## 1.1. Considerations
 
 - This example is in Mac probably if you use other system change some stuff.
-- External install I only share you the links to understand how install it, I don't explaing how to install each one in this post.
+- For external installs I only share you the links to understand how install it, I don't explaing how to install each one in this post.
 
 ---
 
 ## 1.2. Customize a Term
 
-First of all I liked to set a good terminal with a some relevant things, like branch of git and also personalized a little bit.
+First of all I wanted to set a good terminal with a some relevant things, like the current git's branch and also customize the style a little bit.
 
 For this case I use iTerm2, you can find how download here: <https://iterm2.com/>
 
@@ -20,8 +20,8 @@ After that you need to install oh-my-zsh this is how I manage the iTerm personal
 If you already install these 2 tools, we continue with the personalization, you need to follow next steps:
 
 - Open iTerm2
-- Go to Preferences>General>Closing and disabled all the options, this is remove the verification when you closed the terminal with more than one pestaña.
-- Also in Preferences you can go to Profiles option and create new one, after that set the new profile as default.
+- Go to Preferences>General>Closing and disabled all the options, this is remove the verification when you closed the terminal with more than one tab.
+- Also, in Preferences you can go to Profiles option and create new one, after that set the new profile as default.
 - Now you need to download this theme: <https://ethanschoonover.com/solarized>/ and import in the options colors inside your profile. And select the theme in the options, this set a customized UI for iTerm.
 - And after that you can see a little bit different term.
 
